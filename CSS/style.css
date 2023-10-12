@@ -1,0 +1,193 @@
+body{overflow: hidden;
+    background: linear-gradient(90deg, rgba(4,33,224,2) 14%, rgba(1,13,124,2) 24%, rgba(224,3,2,2) 100%);
+}
+.tamplet{justify-content: center;
+    object-fit: cover;
+ position: fixed;
+ box-sizing: border-box;
+ z-index: 1;
+ opacity:0.5;
+ box-sizing:border-box ;
+ transform:(1, 0,1) ;
+ width: 50%;
+ height: 25em;
+ padding-top: 0;
+ padding-left: 4%;
+ margin-top: -54%;
+ margin-left: 26%;
+ border-radius: 2em;
+ background: linear-gradient(90deg, rgba(224,3,2,2) 4%, rgba(224,3,2,2) 34%, rgba(4,33,224,2) 100%);
+ box-shadow: -1em 0em 1em 0em #fff;
+ border-style: groove;
+
+
+ -webkit-transform:sckew(0.3 ) ;
+ -moz-transform:sckew(0.3 ) ;
+ -ms-transform:sckew(0.3 ) ;
+ -o-transform:sckew(0.3 ) ;
+}
+
+.principal h1{
+
+    width: 50%;
+    font-size: 1em;
+    color: aliceblue;
+     padding-top: 5%;
+     padding-left: 7%;
+     display: inline-flex;
+}
+#ponto{padding-top: 6%;
+    padding-left: 5%;
+    transform: rotate(269deg);
+    -webkit-transform: rotate(269deg);
+    -moz-transform: rotate(269deg);
+    -ms-transform: rotate(269deg);
+    -o-transform: rotate(269deg);
+}
+#ponto2{padding-top: 6%;
+   
+    transform: rotate(269deg);
+}
+#ponto3{padding-top: 6%;
+   justify-content: center;
+    transform: rotate(269deg);}
+.list1{width: 20%;
+    position: absolute;
+box-sizing: border-box;
+    margin-left: -13%;
+    list-style: none;
+    display: inline-flex;
+ margin-top: 1%;
+ padding-top: 1%;
+}
+.list1 li{
+    display: inline-flex;
+   color: aliceblue;
+    font-size: 1.3em;
+  
+    padding-top: 1%;
+    grid-template-columns: auto;
+   padding-left: 4%;
+}
+
+.ABSTRACT{
+    margin-top: 5%;
+    float: right;
+    padding-right: 50%;
+}
+.ABSTRACT h1{color: aliceblue;
+    font-size: 1.5em;
+    display: inline;
+     padding-bottom: 10%;
+
+  
+}
+.ABSTRACT h5{
+    color: aliceblue;
+   padding-top: -10%;
+    margin-bottom:-6%;
+
+
+}
+
+.ABSTRACT p{
+    color: aliceblue;
+    margin-bottom:-0%;
+    padding-bottom: 3%;
+    
+}
+.ABSTRACT button{
+    color: aliceblue;
+    width: 10em;
+    height: 04em;
+    border-width: 0.2em;
+    border-top-color: rgb(240, 80, 80);
+    border-bottom-color: rgb(230, 118, 193);
+    border-left-color: rgb(243, 97, 199);
+    border-right-color: rgb(255, 0, 21);
+    border-radius: 2em;
+    background:  linear-gradient(90deg, rgba(4,33,224,2) 6%, rgba(4,33,224,2) 14%, rgba(224,3,2,2) 100%);
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    -ms-border-radius: 2em;
+    -o-border-radius: 2em;
+    margin-top: -27%;
+}
+.bakgroud1{
+    background: linear-gradient(90deg, rgba(4,33,224,2) 4%, rgba(4,33,224,2) 24%, rgba(24,3,2,2) 100%);
+    width: 20%;
+    height: 10em;
+    margin-top: -0%;
+    margin-left: 10%;
+    z-index: -1;
+    border-radius: 100em -0em 100em 0em;
+    -webkit-border-radius: 100em -0em 100em 0em;
+    -moz-border-radius: 100em -0em 100em 0em;
+    -ms-border-radius: 100em -0em 100em 0em;
+    -o-border-radius: 100em -0em 100em 0em;
+
+}
+    .bakgroud2{
+        background: linear-gradient(90deg, rgba(224,33,224,2) 60%, rgba(224,223,224,20) 54%, rgb(250, 9, 9) 100%);
+        width: 50%;
+        height: 30em;
+        margin-top: -13%;
+        margin-left: -35%;
+       
+        z-index: -1;
+        border-radius: 100em -0em 100em 0em;}
+.bakgroud3{color: #fff;
+    opacity: 0.9;
+    background: linear-gradient(90deg, rgba(224,3,24,2) 34%, rgba(224,3,24,2) 24%, rgba(4,3,2,2) 100%);
+    width: 60%;
+    height: 27em;
+    margin-top: -30%;
+    z-index: -1;
+    border-radius: 100em -0em 100em 0em;
+    -webkit-border-radius: 100em -0em 100em 0em;
+    -moz-border-radius: 100em -0em 100em 0em;
+    -ms-border-radius: 100em -0em 100em 0em;
+    -o-border-radius: 100em -0em 100em 0em;
+    
+} 
+
+.bakgroud4{
+    background: linear-gradient(90deg, rgba(234,3,24,2) 40%, rgba(24,55,124,2) 54%, rgba(224,834,1893,233) 100%);
+    width: 40%;
+    height: 30em;
+    margin-top: -65%;
+    z-index: -1;
+    margin-left: 10%;
+    border-radius: 100em 0em 100em 0em;
+    -webkit-border-radius: 100em 0em 100em 0em;
+    -moz-border-radius: 100em 0em 100em 0em;
+    -ms-border-radius: 100em 0em 100em 0em;
+    -o-border-radius: 100em 0em 100em 0em;
+   
+    border-style:groove;
+}
+
+    .bakgroud5{
+        background: linear-gradient(90deg, rgba(4,33,224,2) 4%, rgba(4,33,224,2) 24%, rgba(224,3,2,2) 100%);
+        width: 50%;
+        height: 20em;
+        margin-top: 31%;
+        margin-left: 60%;
+        z-index: -1;
+        border-radius: 100em 0em 100em 0em;
+        -webkit-border-radius: 100em 0em 100em 0em;
+        -moz-border-radius: 100em 0em 100em 0em;
+        -ms-border-radius: 100em 0em 100em 0em;
+        -o-border-radius: 100em 0em 100em 0em;
+}
+
+    .bakgroud6{
+        background: linear-gradient(90deg, rgba(224,2,22,2) 4%, rgba(224,3,2,2) 24%, rgba(4,3,2,2) 100%);
+        width: 50%;
+        height: 20em;
+        margin-top: 6%;
+        margin-left: 60%;
+        z-index: -1;
+        border-radius: 100em -0em 100em 0em;
+    }
+    
